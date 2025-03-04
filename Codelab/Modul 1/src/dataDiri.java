@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.time.LocalDate;
 
-public class Main {
+public class dataDiri {
     public static void main(String[] args) {
         String nama;
         char jenisKelamin;
